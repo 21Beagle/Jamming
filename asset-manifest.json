@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Jamming/static/css/main.73b5d8dd.chunk.css",
+    "main.js": "/Jamming/static/js/main.24a4aaf2.chunk.js",
+    "main.js.map": "/Jamming/static/js/main.24a4aaf2.chunk.js.map",
+    "runtime-main.js": "/Jamming/static/js/runtime-main.0bf70a59.js",
+    "runtime-main.js.map": "/Jamming/static/js/runtime-main.0bf70a59.js.map",
+    "static/js/2.6d726917.chunk.js": "/Jamming/static/js/2.6d726917.chunk.js",
+    "static/js/2.6d726917.chunk.js.map": "/Jamming/static/js/2.6d726917.chunk.js.map",
+    "static/js/3.3e071333.chunk.js": "/Jamming/static/js/3.3e071333.chunk.js",
+    "static/js/3.3e071333.chunk.js.map": "/Jamming/static/js/3.3e071333.chunk.js.map",
+    "index.html": "/Jamming/index.html",
+    "static/css/main.73b5d8dd.chunk.css.map": "/Jamming/static/css/main.73b5d8dd.chunk.css.map",
+    "static/js/2.6d726917.chunk.js.LICENSE.txt": "/Jamming/static/js/2.6d726917.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Jamming/static/media/background_photo_desktop.fe3a0bed.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf70a59.js",
+    "static/js/2.6d726917.chunk.js",
+    "static/css/main.73b5d8dd.chunk.css",
+    "static/js/main.24a4aaf2.chunk.js"
+  ]
+}
